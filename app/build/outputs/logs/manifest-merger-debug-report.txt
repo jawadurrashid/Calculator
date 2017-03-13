@@ -15,18 +15,18 @@ ADDED from C:\Users\User\Desktop\Android - N\Calculator\app\src\main\AndroidMani
 		INJECTED from C:\Users\User\Desktop\Android - N\Calculator\app\src\main\AndroidManifest.xml
 application
 ADDED from C:\Users\User\Desktop\Android - N\Calculator\app\src\main\AndroidManifest.xml:5:5-22:19
-MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta4\AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\User\.android\build-cache\60a23a88d01ff19e78df558e98fabc9ec0313f10\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\User\.android\build-cache\388bc8f26d747aba9b895895e7df4e8383b58d09\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\User\.android\build-cache\cbd73a421066c68f79af6b1081d68f9b30288a32\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\User\.android\build-cache\90a4b487c187e27fc28cfc0eb5d82104ba8bcf3b\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\User\.android\build-cache\d794b9e53a781521c24f244560f7c9d33f19c484\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\User\.android\build-cache\594a9d1eff58f1507445752f1be4e3c54c761330\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\User\.android\build-cache\4719941f724b8518fbb7477e46857a6076cd1696\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\User\.android\build-cache\84180e693eec0042b915f5522de8d6a10e4d3adb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\User\.android\build-cache\e2cdc2b6d566af6f078212223433cd4a64a2a878\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\User\.android\build-cache\0640a5873081bb2b9489e577bde8dddfe9b4b8de\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\User\.android\build-cache\6ac43c9a70e6922ed137822071fe6367786ee8ec\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\User\.android\build-cache\70c40d5b0e8767da4df15119e69b2b426afe8ab6\output\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from C:\Users\User\Desktop\Android - N\Calculator\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -53,28 +53,28 @@ ADDED from C:\Users\User\Desktop\Android - N\Calculator\app\src\main\AndroidMani
 		ADDED from C:\Users\User\Desktop\Android - N\Calculator\app\src\main\AndroidManifest.xml:15:27-74
 meta-data#com.google.android.gms.version
 ADDED from C:\Users\User\Desktop\Android - N\Calculator\app\src\main\AndroidManifest.xml:19:9-21:69
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\User\.android\build-cache\594a9d1eff58f1507445752f1be4e3c54c761330\output\AndroidManifest.xml:21:9-23:69
 	android:value
 		ADDED from C:\Users\User\Desktop\Android - N\Calculator\app\src\main\AndroidManifest.xml:21:13-66
 	android:name
 		ADDED from C:\Users\User\Desktop\Android - N\Calculator\app\src\main\AndroidManifest.xml:20:13-58
 uses-sdk
 INJECTED from C:\Users\User\Desktop\Android - N\Calculator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta4\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\User\.android\build-cache\60a23a88d01ff19e78df558e98fabc9ec0313f10\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\User\.android\build-cache\388bc8f26d747aba9b895895e7df4e8383b58d09\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\User\.android\build-cache\cbd73a421066c68f79af6b1081d68f9b30288a32\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\User\.android\build-cache\90a4b487c187e27fc28cfc0eb5d82104ba8bcf3b\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\User\.android\build-cache\d794b9e53a781521c24f244560f7c9d33f19c484\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\User\.android\build-cache\15cda033d78a1f95580789ea30a42b56d6cf7173\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\User\.android\build-cache\594a9d1eff58f1507445752f1be4e3c54c761330\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\User\.android\build-cache\4719941f724b8518fbb7477e46857a6076cd1696\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\User\.android\build-cache\84180e693eec0042b915f5522de8d6a10e4d3adb\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\User\.android\build-cache\e2cdc2b6d566af6f078212223433cd4a64a2a878\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\User\.android\build-cache\0640a5873081bb2b9489e577bde8dddfe9b4b8de\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\User\.android\build-cache\6ac43c9a70e6922ed137822071fe6367786ee8ec\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\User\.android\build-cache\70c40d5b0e8767da4df15119e69b2b426afe8ab6\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\User\.android\build-cache\60a23a88d01ff19e78df558e98fabc9ec0313f10\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\User\Desktop\Android - N\Calculator\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\User\Desktop\Android - N\Calculator\app\src\main\AndroidManifest.xml

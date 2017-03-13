@@ -3,66 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jar="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_9c0ff5819f5c4d0641401fb8cacfd42146cf4954\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_ee1808aec7dcba4ef0b6fd4249aae5a204e19b4d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_69801b7bcdbd13adb2e617aa1b6ea7c3e5ee4059\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_922f9df21a6a6e3349d969bea5eb54988e184ec6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_88862fbc9b8ee30f087f711d90889c733ca6b7bc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_42b2d7cd187e809018a08f44a2114ba8ede525d3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_8abe95199782a512ebf67fdefe4416be8b040dfa\classes.dex" />
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_505d1e0e240bb24d5beabf931af53a91dc7528ae\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -70,89 +16,8 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="403a33b254a755b919526a3176722112d9e0647c">
-        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9b8a2fc9908bf6ca718555772994ebcf08207f06\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0a9cb567dc008f570c28531720168f19148da965">
-        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta4_aa7946d49beb99cbaae4fde11439356a37fb1ecd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b195c2b6d2a69655cc03777e0508b98e989b0c9b">
-        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_505d1e0e240bb24d5beabf931af53a91dc7528ae\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
-        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_54397944bb429844e044eb3b88d754938a3121f2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_7e5a4f585f0c16f12925168b6ec4eb185cee4735\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_e0d1734d84274891c73cc07e39f2c281d5a93d68\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_f2a50854391d7d30c07aa99b95fdaa953b80a065\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_e315faadf5941feeb7dc0c7046b1e20c8821b083\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_368923662308ba37505cba2df0733bf06555657e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta4\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
-        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-beta4_011cceb6937964eabea47b0db6925238946c1e1f\classes.dex" />
+        sha1="c47569ecb7e0577c5386d5b81dbb6b1eef97d8ce">
+        <dex dex="C:\Users\User\Desktop\Android - N\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9b8a2fc9908bf6ca718555772994ebcf08207f06\classes.dex" />
     </item>
 
 </items>
