@@ -2390,7 +2390,7 @@ containing a value of this type.
         public static final int buttonEquals=0x7f0b0077;
         public static final int buttonMinus=0x7f0b0075;
         public static final int buttonMultiply=0x7f0b0074;
-        public static final int buttonNeg=0x7f0b007a;
+        public static final int buttonNeg=0x7f0b0079;
         public static final int buttonPanel=0x7f0b003d;
         public static final int buttonPlus=0x7f0b0076;
         public static final int cancel_action=0x7f0b007f;
@@ -2410,7 +2410,7 @@ containing a value of this type.
         public static final int end_padder=0x7f0b0091;
         public static final int expand_activities_button=0x7f0b0037;
         public static final int expanded_menu=0x7f0b004c;
-        public static final int guideline=0x7f0b0079;
+        public static final int guideline=0x7f0b007a;
         public static final int home=0x7f0b0004;
         public static final int homeAsUp=0x7f0b0015;
         public static final int icon=0x7f0b003b;
